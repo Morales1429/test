@@ -1,0 +1,19 @@
+1) En la Primera prueba realizamos la comprobacion por medio de la creacion de una variable int llamada hora=4 para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay(hora) para
+realizar la comprobobacion que la hora ingresada este dentro de los parametros definidos (hour >= 0 && hour < 6).
+
+2) En la Segunda prueba realizamos la comprobacion por medio de la creacion de una variable int llamada hora=8 para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay(hora) para
+realizar la comprobobacion que la hora ingresada este dentro de los parametros definidos(hour < 12).
+
+3) En la tercera prueba realizamos la comprobacion por medio de la creacion de una variable int llamada hora=16 para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay(hora) para
+realizar la comprobobacion que la hora ingresada este dentro de los parametros definidos(hour < 18).
+
+4) En la cuarta prueba realizamos la comprobacion por medio de la creacion de una variable int llamada hora=22 para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay(hora) para
+realizar la comprobobacion que la hora ingresada este dentro de los parametros definidos.
+
+5)En la tercera prueba realizamos la comprobacion por medio de la creacion de una variable int llamada hora=28 para almacenar la hora ingresada.
+  La hora ingresada se pasa a una variable boolean, dentro de esta se importa el metodo Utils.isValidHour(hora) para
+  realizar la comprobobacion que la hora ingresada este dentro de los parametros definidos(hour < 0 || hour > 24).
